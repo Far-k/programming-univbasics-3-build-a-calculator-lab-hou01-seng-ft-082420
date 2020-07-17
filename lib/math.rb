@@ -43,5 +43,3 @@ def square_root(num)
   puts sum
   sum
 end
-
-square_root(36)
