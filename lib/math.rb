@@ -31,8 +31,12 @@ end
 multiplication(3,3)
 
 def modulo(num1, num2)
-
+  sum = num1 % num2
+  puts sum
+  sum
 end
+
+modulo(60, 7)
 
 def square_root(num)
 
