@@ -23,8 +23,12 @@ end
 division(9,3)
 
 def multiplication(num1, num2)
-
+  sum = num1 * num2
+  puts sum
+  sum
 end
+
+multiplication(3,3)
 
 def modulo(num1, num2)
 
