@@ -44,4 +44,4 @@ def square_root(num)
   sum
 end
 
-square_root
+square_root(36)
