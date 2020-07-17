@@ -39,5 +39,9 @@ end
 modulo(60, 7)
 
 def square_root(num)
-
+  sum = Math.sqrt()
+  puts sum
+  sum
 end
+
+square_root(64)
